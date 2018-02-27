@@ -23,8 +23,8 @@ driver.action.drag_and_drop_by(marker, "-800", "250").perform
 sleep 1
 driver.find_element(:css, ".leaflet-control-zoom-out").click
 sleep 1
-driver.action.drag_and_drop_by(marker, "-306", "46").perform
-driver.action.drag_and_drop_by(marker, "-306", "46").perform
+driver.action.drag_and_drop_by(marker, "-304", "46").perform
+driver.action.drag_and_drop_by(marker, "-304", "46").perform
 sleep 1
 driver.find_element(:css, ".leaflet-control-zoom-in").click
 driver.find_element(:css, ".leaflet-control-zoom-in").click
