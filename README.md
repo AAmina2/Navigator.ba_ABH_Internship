@@ -26,12 +26,19 @@ Testing of Navigator.ba starts with exploratory testing, followed by creation of
 Resources
 
 Application: www.navigator.ba
+
 Project management tool: Trello
+
 Trello board link: https://trello.com/b/tt7MKCtJ
+
 Environment setup:
+
   OS: Linux Ubuntu
+  
   Browsers: Google Chrome and Firefox 58.0.1
+  
   Scripting language: Ruby
+  
   Testing tools: RSpec, Watir, Capybara, Selenium
 
 
