@@ -23,9 +23,15 @@ Testing type
 
 Testing of Navigator.ba starts with exploratory testing, followed by creation of test cases, smoke test, system test and regression test. Smoke and regression tests will also have automated versions, i.e. test scripts will be made. Considering the fact that Navigator.ba is a complete product, the aim is to inspect basic functionalities and make sure that no new bugs were introduced.
 
-Testing Tools
+Resources
 
-It is necessary for a tester to have a Linux OS, access to Internet and installed minimum of two browsers: Firefox and Chrome. Apart from that, Ruby is going to be used as a scripting language. Testing tools will include RSpec, Watir/Capybara and Selenium. 
-Trello is used as project management tool for tracking progress and communicating with mentor. 
-Google sheets are used for test cases, smoke test and bug/improvements report. 
+Application: www.navigator.ba
+Project management tool: Trello
+Trello board link: https://trello.com/b/tt7MKCtJ
+Environment setup:
+  OS: Linux Ubuntu
+  Browsers: Google Chrome and Firefox 58.0.1
+  Scripting language: Ruby
+  Testing tools: RSpec, Watir, Capybara, Selenium
+
 
