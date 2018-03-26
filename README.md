@@ -40,5 +40,17 @@ Environment setup:
   Scripting language: Ruby
   
   Testing tools: RSpec, Watir, Capybara, Selenium
+  
+How to run script(s)
+
+   'rspec navigator_script.rb'
+
+   'rspec novi_smoke.rb'
+
+   'rspec novi_regression.rb'
+
+   'rspec shoes_smoke.rb'
+
+   'rspec shoes_regression.rb'
 
 
